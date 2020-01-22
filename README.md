@@ -15,7 +15,7 @@ Objetivo solicidado:
   2º Será necessário iniciar um servidor local, para evitar problemas de CORS
 * SERVIDOR LOCAL (Eu utilizei Node), assim sendo:
             1º Comando: npm install -g http-server
-            2º Comando cd C:\Users\JEDI\raiz-projeto\
+            2º Comando cd C:\Users\JEDI\raiz-projeto
             3º Comando, dentro da pasta raiz: http-server
 
 3º Basta abrir o link disponibilizado pelo servidor local no navegador
